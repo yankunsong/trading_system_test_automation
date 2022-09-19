@@ -1,0 +1,4 @@
+2022-08-15 20:07:22 - LoginPage.py - LoginPage - login - 53 - INFO - 跳转登录页
+2022-08-15 20:07:28 - LoginPage.py - LoginPage - login_input_value - 28 - INFO - 输入用户名为：william
+2022-08-15 20:07:28 - LoginPage.py - LoginPage - login_input_value - 28 - INFO - 输入密码为：123456
+2022-08-15 20:07:28 - LoginPage.py - LoginPage - click_login - 40 - INFO - 点击登录
